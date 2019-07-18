@@ -1,1 +1,3 @@
-# repo_prod
+# maven-project
+
+Simple Maven Project
