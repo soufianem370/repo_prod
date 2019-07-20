@@ -10,8 +10,8 @@
         <title>JSP Page</title>
     </head>
           
-            <body style='background-color: grey;'>
-             <!<body style='background-color: blue;'>>
+            <!<body style='background-color: grey;'>>
+             <body style='background-color: blue;'>
 
     <body>
         <img
